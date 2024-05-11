@@ -18,6 +18,9 @@ These steps are orchestrated and managed by Airflow, running on an EC2 instance.
 ## Project Architecture
 ![Blank diagram](https://github.com/tejasjbansal/Simple-Batch-Data-Pipeline/assets/56173595/6d8ca2a5-1969-4cd1-bf03-1da8e69f1f3d)
 
+## Airflow Dag
+![image](https://github.com/tejasjbansal/Simple-Batch-Data-Pipeline/assets/56173595/d395fe06-a9e2-4b32-904c-2a6aecbf628a)
+
 ## Technologies:
 
 - Python 3.10 (minimum)
